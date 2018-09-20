@@ -1,0 +1,10 @@
+node_modules/
+package.json
+package-lock.json
+gulpfile.js
+scss/
+.git
+.gitignore
+README.md
+.DS_Store
+rsync_ignore.txt
