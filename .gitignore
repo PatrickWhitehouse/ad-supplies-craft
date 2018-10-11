@@ -3,3 +3,4 @@ package-lock.json
 rsync_ignore.txt
 servers.yml
 deploy.php
+.vscode
